@@ -19,8 +19,8 @@
 I am a bioinformatics research intern at Curie Institute in Paris.
 
 - 🔭 I’m currently working on the analysis of the mutational signatures associated with replication stress in cancer.
-- 🌱 I’m currently learning more about the molecular biology of replication.
-- 📫 How to reach me: [alaeddine.boudemia@etud.univ-evry.fr](alaeddine.boudemia@etud.univ-evry.fr)
+- 🌱 I’m currently learning about the molecular biology of replication.
+- 📫 Reach me on: [alaeddine.boudemia@etud.univ-evry.fr](alaeddine.boudemia@etud.univ-evry.fr)
 
 ---
 
