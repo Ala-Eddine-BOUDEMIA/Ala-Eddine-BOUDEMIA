@@ -67,16 +67,8 @@
 
 <br/>
 
-<!-- Dynamic GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ala-Eddine-BOUDEMIA&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Eddine-BOUDEMIA&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[LINKEDIN](https://www.linkedin.com/in/ala-eddine-boudemia/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
