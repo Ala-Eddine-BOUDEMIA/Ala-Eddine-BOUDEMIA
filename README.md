@@ -62,7 +62,7 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[DeepLUAD](https://github.com/Ala-Eddine-BOUDEMIA/Lung-Cancer-Diagnosis)** | **96% Accuracy** Deep Learning pipeline for lung cancer classification. | `PyTorch` `CNN`|
-| **[DrugOC](https://github.com/Ala-Eddine-BOUDEMIA/DrugOC-Project-Archive/)** | Pharmacovigilance platform. **Top 20 Global** (Google Solution Challenge). | `Python` `Web Scraping` |
+| **[DrugOC](https://github.com/Ala-Eddine-BOUDEMIA/DrugOC-Project-Archive/)** | Pharmacovigilance platform. **Top 20 Global** (Google Solution Challenge). | `Python` `Web` |
 | **[Histone-Coexpression](https://github.com/Ala-Eddine-BOUDEMIA/Histone-Co-Expression-Patterns)** | Pan-cancer transcriptomic analysis of 20,000+ samples. | `Python` `R` |
 
 <br/>
